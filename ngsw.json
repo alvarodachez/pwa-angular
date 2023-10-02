@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694163819418,
+  "timestamp": 1696237947324,
   "index": "/pwa-angular/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/pwa-angular/favicon.ico",
         "/pwa-angular/index.html",
-        "/pwa-angular/main.ef85bc4c3e9b4ecb.js",
+        "/pwa-angular/main.78f6d9066f3203af.js",
         "/pwa-angular/manifest.webmanifest",
         "/pwa-angular/polyfills.03f825c9b9d91557.js",
         "/pwa-angular/runtime.8b16d20326261896.js",
-        "/pwa-angular/styles.ef46db3751d8e999.css"
+        "/pwa-angular/styles.e0d0871d0bfe7518.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/pwa-angular/assets/icons/babel_logo.png",
         "/pwa-angular/assets/icons/icon-128x128.png",
         "/pwa-angular/assets/icons/icon-144x144.png",
         "/pwa-angular/assets/icons/icon-152x152.png",
@@ -36,13 +37,20 @@
         "/pwa-angular/assets/icons/icon-384x384.png",
         "/pwa-angular/assets/icons/icon-512x512.png",
         "/pwa-angular/assets/icons/icon-72x72.png",
-        "/pwa-angular/assets/icons/icon-96x96.png"
+        "/pwa-angular/assets/icons/icon-96x96.png",
+        "/pwa-angular/color.dae87a04d07ca92b.png",
+        "/pwa-angular/hue.8b1818380241e6ac.png",
+        "/pwa-angular/primeicons.0112589c5695a9ed.ttf",
+        "/pwa-angular/primeicons.943ab24c43224d29.svg",
+        "/pwa-angular/primeicons.ba3f916dfb64be8c.woff2",
+        "/pwa-angular/primeicons.f8b9e8a4e401b603.woff"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/pwa-angular/assets/icons/babel_logo.png": "d781058ad798005074557fdcc823507793bd7a53",
     "/pwa-angular/assets/icons/icon-128x128.png": "2bfda735c2582b005bfc5deb7c75db06b62bb48b",
     "/pwa-angular/assets/icons/icon-144x144.png": "fb4817e8f7ce6bf31a1bce117abae9dc4247de7a",
     "/pwa-angular/assets/icons/icon-152x152.png": "f56a3d0cf3db313dd541540e99af355b89a00fa3",
@@ -51,13 +59,19 @@
     "/pwa-angular/assets/icons/icon-512x512.png": "fa9336d3a1fdd8eefeba32e3b83a20919c381780",
     "/pwa-angular/assets/icons/icon-72x72.png": "1c2194f419ed0bd9c50bb5082f7cb34c40c4b1f5",
     "/pwa-angular/assets/icons/icon-96x96.png": "3b68917e6b8162b22506b2d3af6b13c9b08663d0",
+    "/pwa-angular/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/pwa-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/pwa-angular/index.html": "e6cb7b93ae38d2f50c8f6576c6878ac52b19dcdc",
-    "/pwa-angular/main.ef85bc4c3e9b4ecb.js": "1c1b60f9a890e76013a2001a1d080dc06632ea57",
+    "/pwa-angular/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
+    "/pwa-angular/index.html": "05ebe1737faaf2ead020dba0bf56177dc026b9b4",
+    "/pwa-angular/main.78f6d9066f3203af.js": "f0994754fcd8b901fd8557ea185ebcde37fedd73",
     "/pwa-angular/manifest.webmanifest": "685279c6f14e1c02bbbcaf1a463c0edf8e3a08b4",
     "/pwa-angular/polyfills.03f825c9b9d91557.js": "f35494d4e50586e48487fa8a83ccde3ae6726522",
+    "/pwa-angular/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
+    "/pwa-angular/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
+    "/pwa-angular/primeicons.ba3f916dfb64be8c.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
+    "/pwa-angular/primeicons.f8b9e8a4e401b603.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
     "/pwa-angular/runtime.8b16d20326261896.js": "de855e1260469e33cc8105b445e64dd861597fd0",
-    "/pwa-angular/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/pwa-angular/styles.e0d0871d0bfe7518.css": "bab89d4bfdca426e9164ba00baf78da4e57aaf10"
   },
   "navigationUrls": [
     {
