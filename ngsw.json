@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696237947324,
+  "timestamp": 1696238659762,
   "index": "/pwa-angular/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/pwa-angular/favicon.ico",
         "/pwa-angular/index.html",
-        "/pwa-angular/main.78f6d9066f3203af.js",
+        "/pwa-angular/main.dc558c44d15ab28b.js",
         "/pwa-angular/manifest.webmanifest",
         "/pwa-angular/polyfills.03f825c9b9d91557.js",
         "/pwa-angular/runtime.8b16d20326261896.js",
-        "/pwa-angular/styles.e0d0871d0bfe7518.css"
+        "/pwa-angular/styles.a8fb43ba73acf646.css"
       ],
       "patterns": []
     },
@@ -62,8 +62,8 @@
     "/pwa-angular/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/pwa-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/pwa-angular/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/pwa-angular/index.html": "05ebe1737faaf2ead020dba0bf56177dc026b9b4",
-    "/pwa-angular/main.78f6d9066f3203af.js": "f0994754fcd8b901fd8557ea185ebcde37fedd73",
+    "/pwa-angular/index.html": "f84395c3a25492ab3ab30a2bbbdd5420a15a2b15",
+    "/pwa-angular/main.dc558c44d15ab28b.js": "8f6688665f7c7ebb1f39a93f461b57cdbf1a4f1c",
     "/pwa-angular/manifest.webmanifest": "685279c6f14e1c02bbbcaf1a463c0edf8e3a08b4",
     "/pwa-angular/polyfills.03f825c9b9d91557.js": "f35494d4e50586e48487fa8a83ccde3ae6726522",
     "/pwa-angular/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
@@ -71,7 +71,7 @@
     "/pwa-angular/primeicons.ba3f916dfb64be8c.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
     "/pwa-angular/primeicons.f8b9e8a4e401b603.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
     "/pwa-angular/runtime.8b16d20326261896.js": "de855e1260469e33cc8105b445e64dd861597fd0",
-    "/pwa-angular/styles.e0d0871d0bfe7518.css": "bab89d4bfdca426e9164ba00baf78da4e57aaf10"
+    "/pwa-angular/styles.a8fb43ba73acf646.css": "f54a0aca61c9eed7b05f28c10fbea4c933301407"
   },
   "navigationUrls": [
     {
