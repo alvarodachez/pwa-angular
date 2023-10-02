@@ -1,0 +1,28 @@
+::ng-deep .p-menubar {
+  background-color: #f39331;
+  color: white;
+  border-radius: 0;
+  margin: 0;
+  border: none !important;
+}
+::ng-deep .p-menuitem .p-menuitem-text {
+  color: white;
+}
+
+::ng-deep .p-menubar .p-menubar-button {
+  color: white;
+}
+
+@media (max-width: 768px) {
+  ::ng-deep .p-menubar {
+    display: block;
+    background-color: #f39331;
+    color: white;
+  }
+  ::ng-deep .p-menuitem {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+  }
+}
