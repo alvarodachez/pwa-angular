@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696238659762,
+  "timestamp": 1698392785214,
   "index": "/pwa-angular/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/pwa-angular/favicon.ico",
         "/pwa-angular/index.html",
-        "/pwa-angular/main.dc558c44d15ab28b.js",
+        "/pwa-angular/main.58dde373f8975e75.js",
         "/pwa-angular/manifest.webmanifest",
         "/pwa-angular/polyfills.03f825c9b9d91557.js",
         "/pwa-angular/runtime.8b16d20326261896.js",
@@ -48,7 +48,22 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api",
+      "patterns": [
+        "https:\\/\\/fakestoreapi\\.com"
+      ],
+      "strategy": "freshness",
+      "maxSize": 10,
+      "maxAge": 3000000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/pwa-angular/assets/icons/babel_logo.png": "d781058ad798005074557fdcc823507793bd7a53",
     "/pwa-angular/assets/icons/icon-128x128.png": "2bfda735c2582b005bfc5deb7c75db06b62bb48b",
@@ -62,8 +77,8 @@
     "/pwa-angular/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/pwa-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/pwa-angular/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/pwa-angular/index.html": "f84395c3a25492ab3ab30a2bbbdd5420a15a2b15",
-    "/pwa-angular/main.dc558c44d15ab28b.js": "8f6688665f7c7ebb1f39a93f461b57cdbf1a4f1c",
+    "/pwa-angular/index.html": "f28fa7327650ee15769edeb6828d299fb9c312b0",
+    "/pwa-angular/main.58dde373f8975e75.js": "dcf7e1d919b648c68e65ca8346553f42a4890bd0",
     "/pwa-angular/manifest.webmanifest": "685279c6f14e1c02bbbcaf1a463c0edf8e3a08b4",
     "/pwa-angular/polyfills.03f825c9b9d91557.js": "f35494d4e50586e48487fa8a83ccde3ae6726522",
     "/pwa-angular/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
