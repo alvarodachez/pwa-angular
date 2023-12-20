@@ -26,3 +26,11 @@
     margin: 0;
   }
 }
+
+::ng-deep .p-dialog-mask.p-component-overlay {
+  z-index: 1050 !important;
+}
+
+hr {
+  padding: 2px;
+}
